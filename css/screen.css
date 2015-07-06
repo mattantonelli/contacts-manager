@@ -7,3 +7,5 @@
 .contact-container dl { margin:0; float:left; font-size:14px; }
 .contact-container dt, .contact-container dd { margin:0; float:left; }
 .contact-container dt { width:50px; clear:left; }
+#addContact { display: none; margin-bottom: 10px; }
+header { margin-bottom: 10px;}
